@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PowerView">
+        <attr name="coreLength" format="dimension"/>
+        <attr name="coverColor" format="color"/>
+        <attr name="descTextSize" format="dimension"/>
+        <attr name="descNumberSize" format="dimension"/>
+        <attr name="descTextColor" format="color"/>
+        <attr name="descNumColor" format="color"/>
+        <attr name="descTexts" format="reference"/>
+        <attr name="descNumbers" format="integer"/>
+        <attr name="curNumColor" format="color"/>
+    </declare-styleable>
+</resources>
